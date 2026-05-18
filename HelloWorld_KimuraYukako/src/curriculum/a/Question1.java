@@ -7,21 +7,21 @@ public class Question1 {
 		/*
 		 * 変数の宣言と初期値の設定
 		 */
-		byte byteNum=1;//変数byteNumの初期値を設定
+		byte byteNum=0;//変数byteNumの初期値を設定
 		
-		short shortNum=1;//変数shortNumの初期値を設定
+		short shortNum=0;//変数shortNumの初期値を設定
 		
-		int intNum=1;//変数intNumの初期値を設定
+		int intNum=0;//変数intNumの初期値を設定
 		
-		long longNum=1;//変数longNumの初期値を設定
+		long longNum=0L;//変数longNumの初期値を設定
 		
-		float floatNum=1;//変数floattNumの初期値を設定
+		float floatNum=0.0f;//変数floattNumの初期値を設定
 		
-		double doubleNum=1;//変数doubletNumの初期値を設定
+		double doubleNum=0.0;//変数doubletNumの初期値を設定
 		
-		char letter='a';//変数letterの初期値を設定
+		char letter='\u0000';//変数letterの初期値を設定
 		
-		String letters="あああ";//変数lettersの初期値を設定
+		String letters=null;//変数lettersの初期値を設定
 		
 		boolean isBoolean=false;//変数isBooleanの初期値を設定
 		
